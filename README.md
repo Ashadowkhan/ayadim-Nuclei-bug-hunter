@@ -1,5 +1,5 @@
 # Nuclei Bug Hunter
-For the community of bug bounty hunter i will try to create templates that solves their problems.
+My nuclei templates that i create each time.
 
 ### Main templates 
 
